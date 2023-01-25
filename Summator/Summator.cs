@@ -19,7 +19,7 @@ namespace Summator
             return sum;
 
         }
-        
+        //Comment to new branch
         public static void Test_SumTwoNumbers()
         {
             if (Sum(new int[] { 1, 2}) != 3)
